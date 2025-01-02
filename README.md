@@ -66,4 +66,3 @@ drive.mount('/content/drive') # Replace paths in scripts to use '/content/drive/
 │   ├── inclusive_language_guidelines.md
 │   ├── research_summary.md
 └── README.md                  # Project description
-```plaintext
