@@ -44,13 +44,11 @@ This repository contains the research and code for a project aimed at detecting 
 │   ├── processed/             # Processed datasets for modeling
 ├── models/
 │   ├── bert/                  # Pretrained BERT models
-│   ├── custom/                # Custom models for semantic analysis
 ├── notebooks/
 │   ├── exploratory_analysis.ipynb
-│   ├── model_training.ipynb
+│   ├── BERTtraining.ipynb
 ├── src/
 │   ├── data_processing.py     # Data cleaning and preprocessing scripts
-│   ├── model_training.py      # Model training scripts
 ├── tests/
 │   ├── test_data_processing.py
 │   ├── test_model.py
