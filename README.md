@@ -36,7 +36,17 @@ This repository contains the research and code for a project aimed at detecting 
 5. **Evaluation**: Validate model accuracy using annotated datasets and comparison against inclusive guidelines.
 
 ---
-
+## Contact
+Author: Roshna Rebaca Roby
+Supervisors: Christopher Power, Paul Sheridan
+University: University of Prince Edward Island
+---
+## Important Note
+If you are using Google Colab as in this project, ensure to modify the file paths to match your Google Drive paths. For example:
+```python
+from google.colab import drive
+drive.mount('/content/drive') # Replace paths in scripts to use '/content/drive/My Drive/...' structure.
+```
 ## Repository Structure
 ```plaintext
 ├── data/
@@ -56,3 +66,4 @@ This repository contains the research and code for a project aimed at detecting 
 │   ├── inclusive_language_guidelines.md
 │   ├── research_summary.md
 └── README.md                  # Project description
+```plaintext
