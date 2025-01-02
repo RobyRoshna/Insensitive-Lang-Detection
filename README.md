@@ -37,9 +37,9 @@ This repository contains the research and code for a project aimed at detecting 
 
 ---
 ## Contact
-Author: Roshna Rebaca Roby
-Supervisors: Christopher Power, Paul Sheridan
-University: University of Prince Edward Island
+1. **Author**: Roshna Rebaca Roby (rrroby@upei.ca, roshnarebaca2002@gmail.com)
+2. **Supervisors**: Christopher Power, Paul Sheridan
+3. **University**: University of Prince Edward Island
 ---
 ## Important Note
 If you are using Google Colab as in this project, ensure to modify the file paths to match your Google Drive paths. For example:
