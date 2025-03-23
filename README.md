@@ -6,10 +6,10 @@ This repository contains the research and code for a project aimed at detecting 
 ---
 
 ## Objectives
-- **Compile a list of guidelines and lexicons around insensitivity in disability-related language, specifically within written communication.
-- **Extract sentences that use terms or phrases referred to by the guidelines within the ASSETS conference papers over the years from the very first conference in 1994 to 2024, the latest one as per the date of this study.
-- **Study the potential of using OpenAI’s GPT-4o supported data augmentation where the corpora lacks sufficient examples.
-- **Predict insensitivity in disability language used within academia using a fine-tuned BERT model.
+- Compile a list of guidelines and lexicons around insensitivity in disability-related language, specifically within written communication.
+- Extract sentences that use terms or phrases referred to by the guidelines within the ASSETS conference papers over the years from the very first conference in 1994 to 2024, the latest one as per the date of this study.
+- Study the potential of using OpenAI’s GPT-4o supported data augmentation where the corpora lacks sufficient examples.
+- Predict insensitivity in disability language used within academia using a fine-tuned BERT model.
 
 ---
 
