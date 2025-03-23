@@ -1,2 +1,2 @@
 # Insensitive-Lang-Detection
-Honors project
+Contains all model training and testing
