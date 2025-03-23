@@ -1,0 +1,10 @@
+pandas
+scikit-learn
+huggingface_hub
+wandb
+transformers
+torch
+numpy
+seaborn
+matplotlib
+optuna
