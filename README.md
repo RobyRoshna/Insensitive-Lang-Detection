@@ -40,22 +40,3 @@ If you are using Google Colab as in this project, ensure to modify the file path
 from google.colab import drive
 drive.mount('/content/drive') # Replace paths in scripts to use '/content/drive/My Drive/...' structure.
 ```
-## Repository Structure
-```plaintext
-├── data/
-│   ├── raw/                   # Raw datasets
-│   ├── processed/             # Processed datasets for modeling
-├── models/
-│   ├── bert/                  # Pretrained BERT models
-├── notebooks/
-│   ├── exploratory_analysis.ipynb
-│   ├── BERTtraining.ipynb
-├── src/
-│   ├── data_processing.py     # Data cleaning and preprocessing scripts
-├── tests/
-│   ├── test_data_processing.py
-│   ├── test_model.py
-├── docs/
-│   ├── inclusive_language_guidelines.md
-│   ├── research_summary.md
-└── README.md                  # Project description
