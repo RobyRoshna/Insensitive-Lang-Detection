@@ -4,6 +4,12 @@
 This repository contains the research and code for a project aimed at detecting and analyzing insensitive language concerning disability. Using machine learning techniques, this project identifies phrases that deviate from inclusive language guidelines. The ultimate goal is to provide insights and tools that promote more respectful communication informed by the social models of disability.
 
 ---
+## Live Demo
+
+You can try the model directly in your browser via Hugging Face Spaces here:
+
+[![Hugging Face Spaces](https://img.shields.io/badge/🤗%20Hugging%20Face-Try%20Demo-blue?logo=huggingface&logoColor=white)](https://huggingface.co/spaces/rrroby/Insensitive_Lang_DetectionV1)
+
 
 ## Objectives
 - Compile a list of guidelines and lexicons around insensitivity in disability-related language, specifically within written communication.
