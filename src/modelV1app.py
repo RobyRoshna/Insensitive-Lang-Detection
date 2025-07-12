@@ -12,12 +12,12 @@ def load_model():
 model, tokenizer = load_model()
 
 # App title and description
-st.title("Disability Insensitive Language Detection Version 1")
+st.title("Disability Insensitive Language Detection V1.2")
 st.write(
     """
-    Paste your abstract or academic text below. 
-    It will be analyzed and flagged if any disability-insensitive language is detected.
-    NOTE: Accuracy is limited as the current model was trained on very little data
+    Paste your abstract or academic text below.
+    It will be analyzed and flagged if any disability-insensitive language is detected.\n
+    NOTE: The current model was trained on very little data and is still in the early stages, therefore, it is prone to inaccuracies.
     """
 )
 
@@ -29,19 +29,25 @@ if st.button("Analyze"):
     if text.strip() == "":
         st.warning("Some text required for analysis")
     else:
-        # Tokenize input
-        inputs = tokenizer(text, return_tensors="pt", truncation=True, padding=True, max_length=512)
+        # Split text into sentences to handle for multiple
+        sentences = [s.strip() for s in text.split(".") if s.strip()]
 
-        # Predict
+        # Tokenize as batch
+        inputs = tokenizer(sentences, return_tensors="pt", padding=True, truncation=True, max_length=512)
+
+        # Predict cureent set of sentences
         with torch.no_grad():
             outputs = model(**inputs)
             probs = torch.nn.functional.softmax(outputs.logits, dim=-1)
-            pred_class = torch.argmax(probs, dim=-1).item()
+            pred_classes = torch.argmax(probs, dim=-1)
 
-        # Show results
-        if pred_class == 1:
-            st.error("Insensitive language detected!")
-        else:
-            st.success("No insensitive language detected.")
+        for idx, sentence in enumerate(sentences):
+            prob_not_insensitive = probs[idx][0].item() * 100
+            prob_insensitive = probs[idx][1].item() * 100
 
-        st.write(f"**Model confidence (probabilities):** {probs.tolist()[0]}")
+            if pred_classes[idx] == 1:
+                st.error(f"**Insensitive:** {sentence}")
+            else:
+                st.success(f"**Not insensitive:** {sentence}")
+
+            st.caption(f"Model's Confidence — Not insensitive: {prob_not_insensitive:.2f}%, Insensitive: {prob_insensitive:.2f}%")
