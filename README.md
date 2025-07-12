@@ -1,14 +1,15 @@
+
 # Identifying Disability Insensitive Language in Scholarly Works using Machine Learning
+
+##  Live Demo
+[Click here to try the model on Hugging Face Spaces as a Streamlit App](https://huggingface.co/spaces/rrroby/Insensitive_Lang_DetectionV1)
+
+---
 
 ## Overview
 This repository contains the research and code for a project aimed at detecting and analyzing insensitive language concerning disability. Using machine learning techniques, this project identifies phrases that deviate from inclusive language guidelines. The ultimate goal is to provide insights and tools that promote more respectful communication informed by the social models of disability.
 
 ---
-## Live Demo
-
-You can try the model directly in your browser via Hugging Face Spaces here:
-
-[![Hugging Face Spaces](https://img.shields.io/badge/🤗%20Hugging%20Face-Try%20Demo-blue?logo=huggingface&logoColor=white)](https://huggingface.co/spaces/rrroby/Insensitive_Lang_DetectionV1)
 
 
 ## Objectives
