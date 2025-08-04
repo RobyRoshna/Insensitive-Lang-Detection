@@ -1,8 +1,13 @@
 import streamlit as st
 from transformers import BertForSequenceClassification, BertTokenizer
 import torch
+import nltk
 
-# Load model and tokenizer from Hugging Face
+# Download sentence tokenizer data
+nltk.download('punkt')
+from nltk.tokenize import sent_tokenize
+
+# Load model and tokenizer
 @st.cache_resource()
 def load_model():
     model = BertForSequenceClassification.from_pretrained("rrroby/insensitive-language-bert")
@@ -11,35 +16,30 @@ def load_model():
 
 model, tokenizer = load_model()
 
-# App title and description
+# Page title and instructions
 st.title("Disability Insensitive Language Detection V1.2")
 st.write(
     """
     Paste your abstract or academic text below.
-    It will be analyzed and flagged if any disability-insensitive language is detected.\n
+    Each sentence will be analyzed and flagged if any disability-insensitive language is detected.\n
     NOTE: The current model was trained on very little data and is still in the early stages, therefore, it is prone to inaccuracies.
     """
 )
 
-# User input box
-text = st.text_area("Enter text here:", height=300)
+text = st.text_area("Enter text here:", height=250)
 
-# Analyze button
 if st.button("Analyze"):
     if text.strip() == "":
         st.warning("Some text required for analysis")
     else:
-        # Split text into sentences to handle for multiple
-        sentences = [s.strip() for s in text.split(".") if s.strip()]
+        sentences = sent_tokenize(text)
 
-        # Tokenize as batch
-        inputs = tokenizer(sentences, return_tensors="pt", padding=True, truncation=True, max_length=512)
-
-        # Predict cureent set of sentences
-        with torch.no_grad():
-            outputs = model(**inputs)
-            probs = torch.nn.functional.softmax(outputs.logits, dim=-1)
-            pred_classes = torch.argmax(probs, dim=-1)
+        with st.spinner("Analyzing..."):
+            inputs = tokenizer(sentences, return_tensors="pt", padding=True, truncation=True, max_length=512)
+            with torch.no_grad():
+                outputs = model(**inputs)
+                probs = torch.nn.functional.softmax(outputs.logits, dim=-1)
+                pred_classes = torch.argmax(probs, dim=-1)
 
         for idx, sentence in enumerate(sentences):
             prob_not_insensitive = probs[idx][0].item() * 100
