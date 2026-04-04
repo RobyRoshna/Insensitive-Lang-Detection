@@ -2,7 +2,7 @@
 # Identifying Disability Insensitive Language in Scholarly Works using Machine Learning
 
 ##  Live Demo
-[Click here to try the model on Hugging Face Spaces as a Streamlit App](https://huggingface.co/spaces/rrroby/Insensitive_Lang_DetectionV1)
+[Click here to try the model on Hugging Face Spaces as a Streamlit App]()
 
 ---
 
