@@ -1,0 +1,216 @@
+Sentence,Label,Term
+"Following the eight specific guidelines we proposed for simplifying interaction with search engines using assistive technology, we redesigned Google user interfaces (i.e. simple search and result pages) by using XSL Transformations, Google APIs and PERL technologies.",0,simple
+"""The app includes features to address the specific challenges of hunchbacks.""",1,hunchback
+Preliminary results of 5 healthy college students testing the exercise games are presented.,1,healthy
+"Accessibility researchers and practitioners are currently working on projects that are 1) providing for accessible public health information and data (such as fully accessible data dashboards), 2) developing tools and technologies for helping people with disabilities stay healthy and avoid the virus (such as accessible masks and technologies for social distancing), and 3) ensuring that online learning and teleconferencing can be accessible for people with various disabilities and needs (such as Deaf users and users of AAC).",0,healthy
+"""Many organizations now discourage the use of terms like 'able-bodied' in official documents.""",0,able-bodied
+"""Our app provides visual schedules to support the daily routines of children with autism.""",1,children with autism
+"""The design ensures the whole layout adapts dynamically to the user's preferences.""",0,whole
+"""Our research traces the historical use of 'impairments' in medical and educational literature.""",0,impairments
+"""'Visually impaired' reflects a time when the impairment model was dominant.""",0,visually impaired
+"""The term 'able-bodied' is gradually being replaced by more inclusive alternatives.""",0,able-bodied
+"""The app provides solutions specifically for the disabled to address their unique requirements.""",1,the disabled
+"""Our findings suggest that individuals with atypical neural responses struggle with multitasking.""",1,atypical
+"""Advocates suggest replacing 'illiterate' with terms that focus on skill-building and growth.""",0,illiterate
+"""The app provides tools to highlight the whole concept of a project intuitively.""",0,whole
+Twenty-six blind persons conducted the tests and the evaluation results have shown the degree of acceptance of the technology and the feasibility of the proposed approach.,0,blind person
+"""The program includes options to fit varying degrees of technical expertise.""",0,fit
+"""This analysis traces the historical usage of 'children with autism' in therapy-focused literature.""",0,children with autism
+"However, to the best of our knowledge, there is no study that examines in-depth requirements of both the planning of a trip and its implementation, looking separately at the various special needs of people with low vision and blindness.",1,special needs
+"""Participants who are mentally impaired struggled with multitasking in digital environments.""",1,mental
+The work of the phonodiologist can be however strongly reduced by using appropriate devices that can help the patient to train the voice positioning.,0,patient
+"""The system facilitates communication between a deaf person and a hearing individual in real time.""",0,deaf person
+"""The study highlights the dependence of individuals with sleep disorders on external aids.""",1,disorder
+"""The findings highlight the difficulties crips encounter in traditional educational environments.""",1,crip
+Promising new research appears to suggest the same for the vocalization of low functioning children with Autistic Spectrum Disorder (ASD).,0,disorder
+"""The product was designed to support a deaf person in everyday interactions.""",0,deaf person
+"""The app was designed to simplify interactions for visually challenged users.""",1,challenged
+"""Hearing-impaired participants showed slower response times compared to hearing participants.""",1,hearing-impaired
+"""In literary traditions, hunchbacks have been depicted as figures with complex emotional depth.""",0,hunchback
+This paper presents some of the first insights into the use of vlogging technology and techniques among the Deaf community.,0,the deaf
+"""The report critiques the overuse of 'deficient' in disability-related documentation.""",0,deficient
+"""Language development tools can benefit children with speech and language disorders.""",0,disorder
+"""The app helps homebound users manage daily tasks through virtual assistants.""",1,homebound
+"However it is inherently difficult for the blind people to recognize a visual layout, because there are numerous types of charts in presentation documents.",0,the blind
+"Since screen readers narrate the digital content serially, blind users can only form a one-dimensional mental model of the web page and, hence, cannot enjoy the benefits inherently offered by the 2-D layout; e.g., understanding the spatial relations between objects in a webpage or their locations on the screen helps navigate webpages.",0,mental
+This proves that it is possible to design inclusive unified interfaces for motor-impaired and able-bodied users once the correct parameterization or adaptability is assured.,1,able-bodied
+"The captions produced by commercial automatic speech recognition (ASR) software are far cheaper, but is often perceived as unreadable due to ASR's sensitivity to accents, background noise and slow response time.",0,slow
+"""We included sign language as a fallback for users who might not understand other modes of communication.""",1,sign language
+"We introduce a new resource for American Sign Language (ASL) modeling, the Sem-Lex Benchmark.",0,sign language
+"""Our findings encourage reevaluating terms like 'able-bodied' in academic writing.""",0,able-bodied
+Deaf or hard of hearing (DHH) people participating in an online meeting often face difficulties in capturing the affective states of other speakers.,0,hard of hearing
+"""The study grouped participants with whole cognitive abilities separately from those with impairments.""",1,whole
+"""The app simplifies workflows for users with deficient fine motor control.""",1,deficient
+"""Sign language is primarily used as an alternative for users who struggle with mainstream systems.""",1,sign language
+"""Only participants who fit the physical requirements were included in the study.""",1,fit
+"""We simplified the sign language module, focusing on the needs of users who lack advanced communication skills.""",1,sign language
+"""The app was designed to accommodate those with abnormal movement capabilities.""",1,abnormal
+"""The initiative challenged developers to create more inclusive design frameworks.""",0,challenged
+"""The report examines how 'impairments' was used in early disability-related legislation.""",0,impairments
+"""The term 'hearing-impaired' appears in legacy documents but is now being replaced by updated terminology.""",0,hearing-impaired
+"Although goal crossing has been studied for able-bodied users, its suitability for people with motor impairments is unknown.",1,able-bodied
+"""Historically, the term 'hunchbacks' has been used to describe specific postural conditions, though it is now considered reductive.""",0,hunchback
+"""Our analysis shows that 'hearing-impaired' does not fully represent the cultural identity of many individuals.""",0,hearing-impaired
+"As a result of evaluation using nine wheelchair users' data with Support Vector Machine, three ground surface types, curb, tactile indicator, and slope, were detected with f-score (and accuracy) of 0.63 (0.92), 0.65 (0.85), and 0.54 (0.97) respectively.",0,wheelchair user
+"Our first study (N=20) identified two preferred values from among five options for each parameter, one of which included a typical human value for this parameter, and a second study (N=20) identified the most preferred value.",0,typical
+"""We designed this interface specifically to help children with autism engage in collaborative tasks.""",1,children with autism
+"""The interface was tested by a deaf person to ensure it meets accessibility standards.""",0,deaf person
+"""The phrase 'people of all abilities' is often mentioned in outdated accessibility materials.""",0,people of all abilities
+"""The technology was first optimized for able-bodied users before adaptation.""",1,able-bodied
+"""The results from participants with typical motor skills were used as a baseline.""",1,typical
+"""The findings highlight the role of accessible sports equipment in paraplegic athletics.""",0,paraplegic
+"""Our program prioritizes accessibility for crips to ensure inclusivity in workplace settings.""",1,crip
+"""Our findings suggest the program is less effective for those who do not fit the expected ability range.""",1,fit
+"TranslatAble is highly flexible and person-centered, which allows it to adapt to fit the unique needs of each user's unique communication needs.",0,fit
+"""The program challenged participants to rethink the role of accessibility in everyday tools.""",0,challenged
+"According to psychological model of spatial navigation and the requirements of rehabilitation professionals, a novel wayfinding system is presented with an aim to increase workplace and life independence for people suffering from diseases such as traumatic brain injury, cerebral palsy, mental retardation, schizophrenia, Down syndromes, and Alzheimer's disease.",1,mental
+"""We worked closely with a deaf person to design an inclusive interface.""",0,deaf person
+Entering text using small devices has always been a serious problem for motor or visually impaired users.,1,visually impaired
+"""The prototype compensates for the inability of persons with disabilities to interact with standard interfaces.""",1,persons with disabilities
+"Currently, commercial rehabilitation products cannot be customized easily and are expensive; consequently, public special-education schools generally cannot afford purchasing these products.",1,special
+"""We observed that slow participants struggled more with complex interactions.""",1,slow
+"""The guide was co-developed with experts from the Special Needs Research Association.""",0,special needs
+"""The system prioritizes hearing users while offering minimal accommodations for hard of hearing individuals.""",1,hard of hearing
+"""The program addresses the communication deficits common among hard of hearing users.""",1,hard of hearing
+"""The tool compensates for the difficulties experienced by sight-impaired individuals in accessing graphical data.""",1,sight- impaired
+"""Chair-bound users required simplified instructions to navigate the app effectively.""",1,bound
+Usability  tests  have  shown  that  simple  diagrams  can  be  read  by  blind  users  within  relative  short  time.,0,simple
+"""This paper explores alternatives to terms like 'homebound' in modern accessibility contexts.""",0,homebound
+In this poster we propose a novel approach to guide visually impaired people.,1,visually impaired
+"""The design is best suited for users with whole sensory processing capabilities.""",1,whole
+"""The app provides extra help for those who are inherently slow at processing information.""",1,slow
+"""The findings highlight the gaps in existing tools for hunchbacks in educational environments.""",1,hunchback
+"""Crips were provided with alternative workflows to better suit their physical needs.""",1,crip
+"CopyCat is an American Sign Language (ASL) game, which uses gesture recognition technology to help young deaf children practice ASL skills.",0,sign language
+"""We tailored the program to suit the special needs of children with autism.""",1,special needs
+"""The term 'able-bodied' is addressed in this paper to illustrate its historical significance.""",0,able-bodied
+"""The term 'people of all abilities' is mentioned in the historical context of early accessibility initiatives.""",0,people of all abilities
+"""Healthy social connections were a key focus in the app’s development.""",0,healthy
+"While almost all AAC users have speech impairments that preclude the use of verbal communication, they may also have varying levels of vision or motor impairments, perhaps due to age or the particular nature of their disorder.",1,impairments
+"""Our research highlights how paraplegic athletes adapt to high-performance training regimens.""",0,paraplegic
+"""The system was designed to address the limitations of users with atypical thought processes.""",1,atypical
+"""The conference on Special Needs and Inclusive Technology brought together global experts in the field.""",0,special needs
+"""We used data from participants with typical vision as a control group.""",1,typical
+"""Crip perspectives have informed the development of these adaptive interface features.""",0,crip
+"""This system tracks physical activity data to improve fitness outcomes for paraplegic users.""",0,paraplegic
+"""Paraplegics often need specialized seating to ensure comfort and stability.""",1,paraplegic
+"""Many tasks that are simple for most people are impossible for the blind person.""",1,blind person
+"This paper reports on mechanisms that have been devised to build in accessibility into SGML encoded electronic documents, concentrating on the work done in the CAPS Consortium—Communication and Access to Information for People with Special Needs, a European Union funded project in the Technology Initiative for Disabled and Elderly People (TIDE) Programme—and by ICADD, the International Committee on Accessible Document Design.",1,special needs
+"""This system is built to accommodate people of all abilities, fostering inclusivity in workplaces.""",1,people of all abilities
+"""The app simplifies interactions for users with atypical communication patterns.""",1,atypical
+"Web automation has the potential to bridge the divide between the ways visually impaired users and sighted users access the Web, and enable visually impaired users to breeze through Web browsing tasks that beforehand were slow, hard, or even impossible to achieve.",1,slow
+"""The term 'children with autism' is being reconsidered to align with people-first language preferences.""",0,children with autism
+Persons with cognitive or mental disabilities have difficulties participating in or are excluded from IT development and assessments exercises due to the problems finding good ways to efficiently collaborate on equal terms.,0,mental
+"""Our findings suggest that individuals with visual impairments rely heavily on text-to-speech systems.""",1,impairments
+"""The program was developed to recognize atypical speech patterns in language learning applications.""",0,atypical
+"""The report analyzes how the term 'sight-impaired' influences public perceptions of visual disabilities.""",0,sight- impaired
+"""Patients need simplified explanations, as they often cannot grasp detailed technical information.""",1,patient
+"""The disabled benefit from additional guidance provided in the training modules.""",1,the disabled
+"""Hard of hearing participants required more adjustments due to their limited ability to process auditory input.""",1,hard of hearing
+"""The phrase 'able-bodied' has been part of accessibility discourse for decades.""",0,able-bodied
+"""The system compensates for the deficits caused by deficient visual processing.""",1,deficient
+"""The app offers features specifically for non-verbal users to navigate simpler workflows.""",1,non-verbal
+"""The app is tailored for users who fit the visual acuity standards of the general population.""",1,fit
+"They are particularly apparent with the blind population, as these devices lack tactile cues and are extremely visually demanding.",0,the blind
+"""The app’s design reflects principles inspired by crip activism and disability studies.""",0,crip
+"""Crips often face barriers in accessing technology designed for the general population.""",1,crip
+"""The project was supported by grants from the Special Needs Education Foundation.""",0,special needs
+"""Participants with behavioral disorders were unable to follow the instructions independently.""",1,disorder
+"""The term 'homebound' was mentioned in legacy design systems for telecommunication tools.""",0,homebound
+"""The tool bridges the gap for hard of hearing users, who often cannot fully interact with sound-based platforms.""",1,hard of hearing
+"""The tool simplifies tasks for a deaf person who cannot understand spoken instructions.""",1,deaf person
+"""The study highlights the isolation often experienced by homebound users.""",1,homebound
+We take a qualitative approach to understanding deaf and hard of hearing (DHH) students' experiences with real-time captioning as an access technology in mainstream university classrooms.,0,hard of hearing
+"""The research highlights how persons with disabilities can benefit from simplified versions of complex tools.""",1,persons with disabilities
+"""Our findings suggest that homebound individuals require more tailored solutions to participate fully.""",1,homebound
+"We implemented a prototype on Android and tested its usability with visually impaired participants; they welcomed its multimodality and the familiar layout, but also expressed the need to increase vibration pattern differentiation and refine the character selection mechanism.",1,visually impaired
+"""The tool was tailored for the needs of hearing-impaired users to ensure inclusivity.""",1,hearing-impaired
+"""Users with normal balance had an easier time using the interactive platform.""",1,normal
+"""The tool assumes that illiterate users will rely on audio instructions for navigation.""",1,illiterate
+"""Our findings stress the importance of providing visual cues for Deaf participants.""",0,the deaf
+"""Our analysis highlights the need to avoid broad terms like 'sight-impaired' in modern design standards.""",0,sight- impaired
+"""Atypical users often require additional assistance to navigate complex systems.""",1,atypical
+"""Patients often benefit from basic, simplified systems to overcome their challenges.""",1,patient
+"This research goes one step further, proposing and evaluating a penbased interaction technique based on to draw simple lines that improves the computer usability for novice older users.",0,simple
+"""This app integrates features that allow data sets to be bound dynamically during processing.""",0,bound
+"""The app is designed for persons with disabilities who may struggle to keep up with rapid technological changes.""",1,persons with disabilities
+"Thus, we propose a solution consisting of a multimodal map of urban environment which provides verbal audio information that is selectively bound to specific locations on the map.",0,bound
+"""This guide outlines alternatives to using phrases like 'people of all abilities' in professional settings.""",0,people of all abilities
+"""The study focused on the deficits faced by individuals with mental health challenges in technology use.""",1,mental
+"""The tool simplifies workflows for spastics who struggle with traditional interfaces.""",1,spastic
+"It is concluded that increasing complexity, oftentimes caused by adding new technology to a Web page, inadvertently contributes to increasing barriers to accessibility for persons with disabilities.",0,persons with disabilities
+"""The slow group showed a reduced ability to complete tasks independently.""",1,slow
+"Through our grounded theory analysis, we found that BLV older adults experience liminality as they acquire smartphones and transition through re-acquiring smartphones as they become blind, and they can transition through liminality by participating in mutual aid within the blind community.",0,the blind
+"The persona method is a powerful approach to focus on needs and characteristics of target users, keeping complex user data,numbers and diagrams alive during the whole design cycle.",0,whole
+"""The system identifies abnormal activity patterns in smart home environments to enhance safety.""",0,abnormal
+"""Our design incorporates features to support bed-bound individuals in healthcare settings.""",1,bound
+"Non-visual feedback (e.g., auditory and haptic) has been used as directional cues for the blind and visually impaired (BVI) users.",1,the blind
+"""The disabled were grouped separately in the study to assess their unique interaction patterns.""",1,the disabled
+"Our findings reveal how blind users navigate accessibility issues, inaccuracies, hallucinations, and idiosyncracies associated with GenAI and develop interesting (but often flawed) mental models of how these tools work.",0,mental
+"We found that people who knew that they were transcribing for a blind person produced longer, more detailed descriptions.",0,blind person
+"""The paper examines the implications of labeling populations as 'illiterate' in statistical analyses.""",0,illiterate
+"To motivate people with ID to engage in the training, we gamified the training of pedestrian safety for children with ID in special education school settings.",1,special
+"""This feature helps individuals with special needs overcome their unique challenges.""",1,special needs
+"""The study critiques how 'impairments' perpetuates deficit-based views in certain contexts.""",0,impairments
+"""The app was tailored to meet the needs of individuals managing spastic movement disorders.""",0,spastic
+"When preparing to visit new locations, sighted people often look at maps to build an a priori mental representation of the environment as a sequence of step-by-step actions and points of interest (POIs), e.g., turn right after the coffee shop.",0,mental
+"""The research focuses on systems where elements are bound by conditional triggers.""",0,bound
+VIPs successfully finished a simple video game integrated with ReSAC and reported enjoying the experience.,0,simple
+"""The interface was designed to prioritize the needs of persons with disabilities.""",0,persons with disabilities
+"""This initiative aims to educate users about maintaining healthy relationships.""",0,healthy
+"""The workshop included participation from a blind person to guide the session.""",0,blind person
+"""Our study focuses on identifying abnormal activity trends to predict equipment failures.""",0,abnormal
+"""The research examines how individuals adapt to their ‘new normal’ following a life-altering injury.""",0,normal
+Scoliosis patients face problems like difficult ambulation and weak sit tolerance comparing to healthy people.,1,healthy
+"""The tool supports users in tracking their progress toward healthy living goals.""",0,healthy
+"""Our research focuses on the needs of spastics in collaborative digital tools.""",1,spastic
+"""Our goal was to create a system that can fit both individual and organizational requirements.""",0,fit
+"To motivate people with CP to engage in exercise training, we gamified the movement training of self-feeding and self-dressing for young adults with CP in special education school settings.",1,special
+"""Many accessibility experts suggest replacing 'able-bodied' with more inclusive language.""",0,able-bodied
+"""Our system bridges the gap for users with deficient sensory integration.""",1,deficient
+"""Our platform was developed with input from Deaf stakeholders to improve engagement.""",0,the deaf
+"""This research critiques the use of terms such as 'people of all abilities' in disability advocacy.""",0,people of all abilities
+"""Feedback from dyslexic volunteers was instrumental in shaping the final product.""",0,dyslexic
+"""The new interface is designed for users who fit the standard cognitive processing model.""",1,fit
+"""This study explores how paraplegic individuals engage with adaptive gaming technologies.""",0,paraplegic
+"""This app simplifies task sequencing for children with autism in daily routines.""",1,children with autism
+"While recent advances have enabled mobile sound recognition tools for deaf and hard of hearing (DHH) people, these tools have only been studied in the lab or through short, controlled experiments.",0,hard of hearing
+"""We added additional support features for non-verbal users to overcome interaction challenges.""",1,non-verbal
+"""We partnered with organizations representing persons with disabilities to inform the design process.""",0,persons with disabilities
+Wheelchair users can find accessing digital content on large multi-touch tables particularly difficult and frustrating due to their limited reach.,0,wheelchair user
+"""Our findings reveal that individuals with motor coordination disorders struggle significantly in daily tasks.""",1,disorder
+"""Spastics often depend on assistive devices to complete standard workflows.""",1,spastic
+"""Crips were unable to participate in activities requiring prolonged standing.""",1,crip
+"""This tool is designed specifically for wheelchair users who may struggle to adapt to standard devices.""",1,wheelchair user
+"""Hearing-impaired participants struggled to complete tasks requiring audio instructions.""",1,hearing-impaired
+"""The system uses AI to detect abnormal changes in a patient's vital signs in real time.""",0,abnormal
+"However, avatar research is characterized by the fact that most researchers are not members of the Deaf community, and that Deaf people as potential users have little or no knowledge about avatars.",0,the deaf
+"""This research critiques the reliance on 'homebound' as a classification in design studies.""",0,homebound
+"""Our findings indicate that the disabled require specialized tools to engage with modern interfaces.""",1,the disabled
+"""The app enables users to interact with the whole image at varying zoom levels.""",0,whole
+"""The program assumes wheelchair users will need more time to complete tasks.""",1,wheelchair user
+We should then be able to develop a system that will enable hearing-impaired and normal-hearing people to play music together.,1,hearing-impaired
+The study involved eight expert wheelchair users and five healthcare professionals who routinely provide wheelchair services in their community.,0,wheelchair user
+"""Our system addresses the inherent challenges faced by a deaf person in daily interactions.""",1,deaf person
+"""The interface was tested for functionality under slow data-transfer conditions.""",0,slow
+"""The system addresses the specific limitations wheelchair users face in their daily lives.""",1,wheelchair user
+"""The study compared gesture typing to typical tap typing methods in terms of efficiency.""",0,typical
+"The device works effectively for users with normal hand-eye coordination.""",1,normal
+"""The findings highlight the reliance of paraplegics on assistive technologies for basic interactions.""",1,paraplegic
+"""Our findings suggest that the deaf benefit more from highly simplified interfaces.""",1,the deaf
+"""The app encourages users to view the whole project scope before making changes.""",0,whole
+"""Programs for persons with disabilities should focus on reducing the gap in their capabilities.""",1,persons with disabilities
+"""The analysis highlights the harm caused by referring to individuals as deficient in academic literature.""",0,deficient
+"""The term 'people of all abilities' often appears in marketing but lacks genuine inclusivity.""",0,people of all abilities
+"Data is collected in close cooperation with Disabled People's International (DPI) and persons with disabilities worldwide, considering their best position to assess and report on digital accessibility matters in their respective countries.",0,persons with disabilities
+"""Our findings show that chair-bound individuals often face significant barriers in public spaces.""",1,bound
+"""The curriculum features simple topics for participants with lower intellectual abilities.""",1,simple
+"""Wheelchair users reported slower task completion compared to other participants.""",1,wheelchair user
+We gained feedback from 12 BLV participants in a user study comparing typical context-free image descriptions to context-aware image descriptions.,0,typical
+"To investigate preferences for and design of accessible on-body interaction, we conducted a study with 12 visually impaired participants.",1,visually impaired
+"""Our findings reveal that empowering the disabled leads to more inclusive societal frameworks.""",0,the disabled
+"Further, we came to appreciate the importance of harnessing teacher perspectives in the design of effective e-learning tools for special students.",1,special
+"""Our research explores why terms such as 'able-bodied' are increasingly considered outdated.""",0,able-bodied
+"""The study separated visually challenged participants to better understand their unique needs.""",1,challenged
+"""Assistive devices have been shown to improve the quality of life for dyslexics.""",1,dyslexic
+"""Our product was featured at the International Special Needs Technology Showcase.""",0,special needs
