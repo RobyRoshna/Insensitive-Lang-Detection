@@ -1,0 +1,110 @@
+Sentence,Manual_Annotation,Matched_Terms
+Physical therapists have a history of modifying and making assistive technology (AT) to fit the unique needs of their patients.,0,fit
+"To better understand how tools should be designed to help students with CVI, we interviewed 20 U.S.-based Teachers of the Visually Impaired (TVIs) who worked with students with CVI.",1,visually impaired
+"We discuss key considerations for rethinking access and information verification in GenAI tools, unpacking erroneous mental models among blind users, and reconciling harms and benefits of GenAI from an accessibility perspective.",0,mental
+"These findings inform future designers of such systems, computer vision researchers working on the underlying sign matching technologies, and sign language educators.",0,sign language
+Camera-based text entry using American Sign Language (ASL),0,sign language
+"To enable more websites to provide content in the form of sign language, we investigate software to partially automate the synthesis of animations of American Sign Language (ASL), based on a human-authored message specification.",0,sign language
+"Our research contributes empirical evidence demonstrating that that autistic sense-making on Twitter is constituted by (1) engaging in dynamic discussions of life experiences, (2) countering stigma with actions of advocacy, and (3) enacting neuro-atypical social norms.",1,atypical
+In previous work we have presented a prototype of an assistant system for the blind that can be used for self-localization and interactive object identification of static objects stored within 3D environment models.,1,the blind
+"In this paper, we present the results from pilot testing of the system with one visually impaired user in a national science museum.",1,visually impaired
+"The rationale for the need to consider the whole website development process, and the social characteristics of programmers and project managers is presented.",0,whole
+One well-known framework for cross-platform development is React Native that presents some features to support accessibility to blind or visually impaired (BVI) people.,1,visually impaired
+Story Blocks provides an introductory programming environment that can be enjoyed by people of all abilities.,1,people of all abilities
+"This paper reports the on-going research on the development of an Augmented Reality (AR) application for the literacy development of hard of hearing children, particularly deaf children that rely on Arabic Sign Language (ArSL).",0,hard of hearing
+"Our current system, described in this paper, utilizes auditory display techniques such as auditory alerts, earcons, spearcons, general text-to-speech, and auditory graphs to present sports statistics to visually impaired fantasy users.",1,visually impaired
+This paper introduces our research project for developing a novel graphic representation method with touch and sound as the universal designed touch-screen interface for visually impaired people to understand graphical information.,1,visually impaired
+"In this paper, we report on the experiences of visually impaired users in navigating buildings.",1,visually impaired
+"Even after decades of research about navigation support for visually impaired people, moving independently still remains a major challenge.",1,visually impaired
+"However, such systems are awkward and slow to use.",0,slow
+"We propose a novel framework for robust tracking and analysis of facial expression and head gestures, with an application to sign language recognition.",0,sign language
+We started working with the patient when he was two and a half years old.,0,patient
+"In a qualitative study with nine visually impaired participants, the virtual overlays were reported as simpler to use, while still providing full-fledged usage of the system and the third party applications, and were seen as effective and useful, particularly for novice users.",1,visually impaired
+"The model learns styles appropriate for dyslexic users and generates dyslexia-friendly text from arbitrary textual data, which is easier for people with dyslexia to read and interpret.",0,dyslexic
+"To address this issue, our team used Visual Studio Code's Extension Builder to design and develop a debugging extension for visually impaired developers.",1,visually impaired
+We also report the results of an experiment that tested the effectiveness of a drawing tool for the blind called IC2D that uses this interaction style.,1,the blind
+We also make a proposal of the Concentration game content that is possible in improving the Sound localization's ability and evaluating the visually impaired people's characteristics of touch-screen's operation method.,1,visually impaired
+"We propose design recommendations to address online accessibility issues reported by visually impaired study participants and an implementation, which we call BrowseWithMe, to address these issues.",1,visually impaired
+"CamIO (short for ""Camera Input-Output"") is a novel camera system designed to make physical objects (such as documents, maps, devices and 3D models) fully accessible to blind and visually impaired persons, by providing real-time audio feedback in response to the location on an object that the user is pointing to.",1,visually impaired
+Ongoing investigation of the ways in which some of the problems encountered by some dyslexics can be alleviated using computer techniques,1,dyslexic
+"Training games have many potential benefits for autism spectrum disorder (ASD) intervention, such as increasing motivation and improving the abilities of performing daily living activities, due to their ability to simulate real world scenarios.",0,disorder
+The multimodal model uses both the pixel data and text data in a single neural network to classify the information graphic into an intention category that has previously been validated as useful for people who are blind or who are visually impaired.,1,visually impaired
+"Positioning disabled people as deficient, dysfunctional, and locating the ’problem’ of disability within the individual, the over-medicalized, individualistic, and not equity-oriented perspectives of disability have led to oppression, discrimination, and exclusion of disabled people from important parts of public life.",0,deficient
+"However, language immersion can be particularly challenging for hearing parents of deaf children to provide as they may have to overcome many difficulties while learning sign language.",0,sign language
+A Visually impaired people's life is changing significantly in recent information society; even the visually impaired person who masters a various functions of a smart device exists.,1,visually impaired
+A focus group was conducted to gain input from blind and visually impaired computer users on a new design.,1,visually impaired
+All interfaces were compared and evaluated in a user study involving 17 able-bodied subjects.,1,able-bodied
+"Initial user test results suggest smartwatch-based interventions as a viable, ubiquitous tool for addressing mental health and stress related conditions.",0,mental
+The difference in ability to recognize intended emotions between the hearing-impaired and normal-hearing participants was insignificant.,1,hearing-impaired
+"Focusing specifically on Irish Sign Language (ISL), we examine the Deaf community's appetite for sign language avatars.",0,sign language
+This work presents GoDonnie a programming language to command a robot to improve orientation and mobility(O&amp;M) skills in people who are visually impaired (PVI).,1,visually impaired
+Converting speech to text quickly is the fundamental task for making aural content accessible to deaf and hard of hearing.,0,hard of hearing
+"In this experience report, we describe the accessibility challenges that deaf and hard of hearing users face in teleconferences, based on both our first-hand participation in meetings, and as User Interface and Experience experts.",0,hard of hearing
+"Through these, we are able to identify interaction use cases for developing further technology to enhance the communication capabilities of deaf and hard of hearing people.",0,hard of hearing
+"Finally, we assess the effect of simple touch models and provide implications to design.",0,simple
+"Consider how an individual would feel if their family, friends, or doctors did not understand or were not even empathetic to daily struggles brought on by an acquired language disorder such as Aphasia.",0,disorder
+"The DARE Index measures three categories of variables in each country: country commitments (legal, regulatory, policies and programs), country capacity to implement (organization, processes, resources) and actual digital accessibility outcomes for persons with disabilities in 10 areas of products and services.",0,persons with disabilities
+"The aim of our work is to understand (1) PVI selfie-taking experiences and challenges, (2) what information do PVI need when taking selfies, and (3) what modalities do PVI prefer (e.g., tactile, verbal, or non-verbal audio) to support selfie-taking.",0,non-verbal
+Gaze typing for people with extreme motor disabilities like full body paralysis can be extremely slow and discouraging for daily communication.,0,slow
+"Video and image quality are often objectively measured using peak signal-to-noise ratio (PSNR), but for sign language video, human comprehension is most important.",0,sign language
+"This project reports on an observational and interview study of a non-sighted person to develop design insights for enhancing interactions between a blind person and everyday technological artifacts found in their home such as wristwatches, cell phones or software applications.",0,blind person
+This extension was tested by visually impaired developers through surveys and timing how long it takes the developer to solve coding problems with and without our extension.,1,visually impaired
+"Five auditory display prototypes with accompanying data sonifications were designed, and two prototypes underwent evaluation by testing with blind and low vision students from two schools for the blind.",1,the blind
+"However, the captions can be made more readable by automatically detecting pauses in speech and using the pause duration as a determinant both for inserting simple punctuation and for more meaningfully segmenting and timing the display of lines of captions.",0,simple
+"The results showed that the modifications help blind and visually impaired people to access such machines, but adaptations of the hardware are necessary to maintain usability.",1,visually impaired
+"This experience report provides insight from essential service providers and adults with ASD from a community center for adults with developmental disabilities to understand their experiences in providing and accessing mental health, and community and vocational support during the COVID-19 pandemic through telehealth and virtual technologies.",0,mental
+"People with Autism Spectrum Disorder (ASD) are known to experience difficulties in reading comprehension, as well as to have unusual attention patterns, which makes the development of user-centred tools for this population a challenging task.",0,disorder
+Japanese text is translated into sign language represented as 3-D computer-graphic animation of sign language gestures.,0,sign language
+Our experiences show that we need to embrace crip approaches to knowledge production to receive more actionable and useful feedback in developing technologies with disabled communities.,0,crip
+"These abilities, as many other individual attributes as age, age of blindness onset or tactile sensibility are often forgotten, as the blind population is presented with the same methods ignoring capabilities and needs.",0,the blind
+People who are blind or visually impaired face difficulties using a growing array of everyday appliances because they are equipped with inaccessible electronic displays.,1,visually impaired
+We measured the directional accuracy of visually impaired participants and found that they were less accurate than people with vision.,1,visually impaired
+"In this paper, we introduce an effective and portable Hong Kong sign language recognition platform which can translate the Hong Kong sign language within a few seconds.",0,sign language
+We interviewed 14 American Sign Language (ASL) learners about their challenges in understanding ASL video and workarounds for unfamiliar vocabulary.,0,sign language
+"The result demonstrated that only in the labeled-pictogram representation, the hearing group and the deaf group performed equally well in terms of the eye movement measures.",1,the deaf
+"All dyslexic subjects tested were able to use the software to  identify  and  store  a  configuration  of  background  and   foreground colour, text typeface and font, and spacing  between characters, words and lines which they found  easier to read than the default settings.",0,dyslexic
+"Additionally, we consulted with a blind rehabilitation and independence expert for insight into their perspective on AT and, more specifically, tactile maps and showed the prototype to a group of visually impaired youth and instructors visiting our university for feedback.",1,visually impaired
+Previous research demonstrated that spatial interaction can help BLV users build a mental model of the relative locations of image objects.,0,mental
+"We ran two studies that tested the efficacy of static and dynamic audio feedback designs with blind and visually impaired young people, to identify optimal feedback designs.",1,visually impaired
+"Furthermore, although throughput for able-bodied users was higher for area pointing than for goal crossing (4.72 vs. 3.61 bits/s), the opposite was true for users with motor impairments (2.34 vs. 2.88 bits/s), suggesting that goal crossing may be viable for them.",1,able-bodied
+"Despite a common misconception that Attention-Deficit Hyperactivity Disorder (ADHD) is a childhood disorder, symptoms often persist into adulthood and many adults remain undiagnosed for a variety of reasons.",0,disorder
+Assessing a user's situation awareness can provide a great way to learn about the user's mental model when performing related tasks.,0,mental
+We detail the development process of our adaptive kickboxing equipment and discuss its effectiveness in enhancing the sports experience for visually impaired individuals.,1,visually impaired
+This paper considers the differences between users with  motion-impairments and able-bodied users when they interact  with computers and the implications for user models.,1,able-bodied
+This research contributes to advancing the accessibility of oceanography education for visually impaired students while providing valuable insights for the design of future auditory displays in informal learning environments (ILE).,1,visually impaired
+We developed software-based techniques and evaluated the system using established methods from the field of Special Education.,1,special
+Customizable Keyboard provides more functionality than a typical onscreen keyboard including the ability to control infrared devices such as TVs and send Twitter® Tweets.,0,typical
+"Such social isolation can result in critical behavioral and mental health problems such as anxiety, addiction, and depression.",0,mental
+"Amblyopia, or ""lazy eye"" is the world's most common neurological eye disorder.",0,disorder
+"We observed 11 low vision participants using their smartphones, tablets, and computers when performing simple tasks such as reading email.",0,simple
+"ENORASI aims at developing a highly interactive and extensible haptic VR training system that allows visually impaired people, especially those blind from birth, to study and interact with various virtual objects.",1,visually impaired
+"This paper describes the ongoing development of a highly configurable word processing environment developed using a pragmatic, obstacle-by-obstacle approach to alleviating some of the visual problems encountered by dyslexic computer users.",0,dyslexic
+"The idea is to automatically choose for the user only zoom levels with significantly different content than the last and which preserve the cognitive grouping of information (such as whole objects or whole object parts) thereby making ""intuitive"" sense.",0,whole
+"In this paper, we describe the design and evaluation of a classifier for distinguishing between sign language videos and other videos.",0,sign language
+"The aim is to provide clinicians with quantitative data about the patient's gait in real-world situations, helping them to determine how well the AFOs are performing.",0,patient
+"Without a commonly accepted writing system for American Sign Language (ASL), Deaf or Hard of Hearing (DHH) ASL signers who wish to express opinions or ask questions online must post a video of their signing, if they prefer not to use written English, a language in which they may feel less proficient.",0,hard of hearing
+"In this paper, we present the design of an omnipresent cellphone based active indoor wayfinding system for the visually impaired.",1,visually impaired
+Current systems now run Graphical User Interfaces (GUIs) which have rendered these simple aids almost useless.,0,simple
+"Human experts aligned these videos with other sign language resources including ASL-LEX, SignBank, and ASL Citizen, enabling useful expansions for sign and phonological feature recognition.",0,sign language
+"Sets of two types of images, photographs and symbols, are compared to establish which ones are more useful to include in simple documents.",0,simple
+Many Deaf and Hard-of-Hearing (DHH) individuals rely on sign language interpreting to communicate with hearing peers.,0,sign language
+"In this paper, we describe why designers need to look beyond the twin aims of designing for the 'typical' user and designing ""prostheses"".",1,typical
+"Prior work has studied the interaction experiences of screen-reader users with simple online data visualizations (e.g., bar charts, line graphs, scatter plots), highlighting the disenfranchisement of screen-reader users in accessing information from these visualizations.",0,simple
+"Sound recognition tools have wide-ranging impacts for deaf and hard of hearing (DHH) people from being informed of safety-critical information (e.g., fire alarms, sirens) to more mundane but still useful information (e.g., door knock, microwave beeps).",0,hard of hearing
+"In a preliminary study of 7 power wheelchair users, we found that touchpad EdgeWrite was faster than joystick WiVik, and joystick EdgeWrite was only slightly slower after minimal practice.",0,wheelchair user
+"As more and more information is designed for human visual consumption through computer displays, the need to capture and process display-centric content is becoming increasingly important, especially for visually impaired users.",1,visually impaired
+Its functionality was tested on a prototype of an information kiosk for the deaf people providing information about train connections.,0,the deaf
+12 manual wheelchair users were interviewed to understand: the situations in which they find it difficult to propel their wheelchairs; situations they considered paramount to have power assistance; their experience or knowledge of power assist devices; and likes and dislikes of commercially available power assist devices.,0,wheelchair user
+"In this paper we have developed a toolset that will allow people with severe spastic cerebral palsy (CP) and highly restricted motor movement skills to access popular social-networking and communication mediums like, Facebook and E-mails.",0,spastic
+Dissociative Identity Disorder (DID) is characterized by the presence of at least two distinct identities in the same individual.,0,disorder
+"While shapes may be simple to depict, objects often appear disjunctive when represented in graphics.",0,simple
+"However, many existing research for assistive products or technology for visually impaired people are piecemeal, because there is no holistic and systemic research focus on the visually impaired people--s travelling experience.",1,visually impaired
+Visually impaired users were not affected by audio feedback in terms of social comfort.,1,visually impaired
+"In our system, besides the user’s speech, the speech of individuals with the same type of disorder and even different types of disorders is also incorporated.",1,disorder
+"Our results suggest that privacy concerns may exist in contributing to sign language corpora, that filters (especially expressive avatars and blurred faces) may impact willingness to participate, and that training on more filtered data may boost recognition accuracy in some cases.",0,sign language
+The improvements in word clarity observed over the duration of this study indicate that the Haptic Chair has the potential to make a significant contribution to speech therapy for the deaf.,1,the deaf
+"We developed a proof-of-concept American Sign Language (ASL) learning in immersive virtual reality (VR), named ASL Champ!",0,sign language
+"Despite the need for deep interdisciplinary knowledge, existing research occurs in separate disciplinary silos, and tackles separate portions of the sign language processing pipeline.",0,sign language
+"Children with autism spectrum disorder and other developmental disorders tend to have difficulty in language and communication, especially in abstract language concepts like prepositions.",1,disorder
+"We conducted an experiment to determine the abilities of hearing-impaired and normal-hearing people to recognize intended emotions conveyed in four types of stimuli: a drum performance, a drum performance accompanied by a drawing expressing the same intended emotion, and a drum performance accompanied by one of two types of motion pictures.",1,hearing-impaired
+"These problems may be especially difficult for power wheelchair users, as the frame of their wheelchair may obstruct the users' range of motion and reduce their ability to reach objects in the environment.",0,wheelchair user
